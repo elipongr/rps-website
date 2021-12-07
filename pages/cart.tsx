@@ -59,7 +59,7 @@ export default function Cart() {
               Your cart is empty
             </h2>
             <p className="text-accent-6 px-10 text-center pt-2">
-              Biscuit oat cake wafer icing ice cream tiramisu pudding cupcake.
+              Biscuit oat cake wafer icing ice cream tiramisu pudding cupcake. test test
             </p>
           </div>
         ) : error ? (
